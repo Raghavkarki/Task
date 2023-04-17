@@ -1,0 +1,11 @@
+{
+  "Number_patients_above_20": 144,
+  "female_patients_between_14_to_59": 54,
+  "most_common_diognosed_disease": "Other specified disorders of external ear",
+  "Number_of_most_common_diognosed_disease": 7,
+  "dead_patients": 106,
+  "totalChildrenUnder2": 4,
+  "childrenUnder2WithAllVaccinations": 0,
+  "percentage_fully_vaccinated_children_under_2": 0,
+  "erroneous_pregnancy_reports": 0
+}
